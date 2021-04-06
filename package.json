@@ -1,20 +1,20 @@
 {
-  "name": "pancake-toolkit",
+  "name": "htaibot-toolkit",
   "version": "1.0.0",
-  "description": "Pancake frontend packages",
+  "description": "Htaibotswap frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/Htaibot/pancake-frontend.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/Htaibot/pancake-frontend/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/Htaibot/pancake-frontend#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
@@ -25,8 +25,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn format:check",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "pre-commit": "yarn format:check"
     }
   },
   "devDependencies": {

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.18.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@htaibotswap-libs/uikit@0.18.0...@htaibotswap-libs/uikit@0.18.2) (2021-04-06)
+
+**Note:** Version bump only for package @htaibotswap-libs/uikit
+
+
+
+
+
 # 0.18.0 (2021-04-06)
 
 
